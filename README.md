@@ -80,9 +80,10 @@ article = input("Please enter a news article:")
 The model achieves an accuracy of approximately (95.6%) using the TF-IDF vectorizer and Multinomial Naive Bayes classifier.
 
 # Team Members
+sripriya
+chaitanya
 sashank
 kalyan
 vamsi Krishna
 sravani
-sripriya
-chaitanya
+
